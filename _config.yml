@@ -1,16 +1,17 @@
 # Site settings
-title: "Daniel Woo (Kyungjei Woo)"
-email: "spikyedge@gmail.com" 
-description: > # this means to ignore newlines until "baseurl:"
-  this is personal blog.
-  I don't know about the dirrection of this blog yet.
+title: Daniel Woo (Kyungjei Woo)
+email: spikyedge@gmail.com 
+description: >this is personal blog.
+  I do not know about the dirrection of this blog yet.
   So I will trying to write everything that I have interested in.
-  For example, movies, animations, books, medical things, and family.
+  For example, movies, animations, books, medical things, and family. 
   
-baseurl: "http://www.kjwoo.com" # the subpath of your site, e.g. /blog/
+  # this means to ignore newlines until "baseurl:"
+  
+baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://www.kjwoo.com" # the base hostname & protocol for your site
-twitter_username: "@os_kjwoo"
-github_username:  "wookj"
+twitter_username: https://twitter.com/os_kjwoo
+github_username:  https://github.com/wookj
 
 # Build settings
 markdown: kramdown
