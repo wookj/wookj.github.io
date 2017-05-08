@@ -1,55 +1,56 @@
-{% include custom/sidebarconfigs.html %}
+<div class='wrapper'>
 
-<ul id="mysidebar" class="nav">
-    <li class="sidebarTitle">{{sidebar[0].product}} {{sidebar[0].version}}</li>
-    {% for entry in sidebar %}
-    {% for folder in entry.folders %}
-    {% if folder.output contains "web" %}
-    <li>
-        <a href="#">{{ folder.title }}</a>
+  <input data-function='swipe' id='swipe' type='checkbox'>
+  <label data-function='swipe' for='swipe' class="btn btn-default" >Menu</label>
+
+  <div class='content'>
+    {{ content }}
+  </div>
+
+  <div class='sidebar menu'>
+
+      <div id="picture" style="background-image: url(http://www.naturaloil.ph/wp-content/uploads/2015/11/John_Doe.jpg)"></div>
+      <p>{{site.description}}</p>
+
+      <hr>
+
+      <div id="social-icons">
         <ul>
-            {% for folderitem in folder.folderitems %}
-            {% if folderitem.output contains "web" %}
-            {% if folderitem.external_url %}
-            <li><a href="{{folderitem.external_url}}" target="_blank">{{folderitem.title}}</a></li>
-            {% elsif page.url == folderitem.url %}
-            <li class="active"><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-            {% else %}
-            <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-            {% endif %}
-            {% for subfolders in folderitem.subfolders %}
-            {% if subfolders.output contains "web" %}
-            <li class="subfolders">
-                <a href="#">{{ subfolders.title }}</a>
-                <ul>
-                    {% for subfolderitem in subfolders.subfolderitems %}
-                    {% if subfolderitem.output contains "web" %}
-                    {% if subfolderitem.external_url %}
-                    <li><a href="{{subfolderitem.external_url}}" target="_blank">{{subfolderitem.title}}</a></li>
-                    {% elsif page.url == subfolderitem.url %}
-                    <li class="active"><a href="{{subfolderitem.url | remove: "/"}}">{{subfolderitem.title}}</a></li>
-                    {% else %}
-                    <li><a href="{{subfolderitem.url | remove: "/"}}">{{subfolderitem.title}}</a></li>
-                    {% endif %}
-                    {% endif %}
-                    {% endfor %}
-                </ul>
-            </li>
-            {% endif %}
-            {% endfor %}
+            <li><a href="http://facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://mx.linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></li>
+            <li><a href="http://{{ site.deviantart }}.deviantart.com"><i class="fa fa-deviantart"></i></a></li>
+            <li><a href="http://codepen.io/{{ site.codepen }}"><i class="fa fa-codepen"></i></a></li>
+        </ul>
+      </div>
+
+       <hr>
+
+       <div class="navigation">
+        <ul>
+            {% for my_page in site.pages %}
+                {% if my_page.title %}
+                <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
             {% endfor %}
         </ul>
-     </li>
-       {% endif %}
-        {% endfor %}
-        {% endfor %}
-        <!-- if you aren't using the accordion, uncomment this block:
-           <p class="external">
-               <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
-           </p>
-           -->
-</ul>
+    </div>
 
-<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
-<script>$("li.active").parents('li').toggleClass("active");</script>
+    <hr>
+
+     <div class="navigation">
+             <ul>
+               {% for category in site.categories %}
+                 <li><a href="{{ site.baseurl | prepend: url }}/categories/{{ category | first | prepend: site.baseurl }}">{{ category | first }}</a></li>
+               {% endfor %}
+             </ul>
+     </div>
+
+     <hr>
+
+     <p>{{site.footer}}<p>
+     <p>Powered by Jekyll<p>
+
+  </div>
+
+</div>
