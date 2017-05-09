@@ -7,8 +7,15 @@ main:
   - title: "Books"
     url: https://wookj.github.io/book/
   - title: "Blog"
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /blog/
+
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
