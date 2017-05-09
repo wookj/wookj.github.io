@@ -65,9 +65,15 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "person" # Person or Organization (defaults to Person)
+  name                   : "Woo"# If the user or organization name differs from the site's name
+  links: 
+    - "https://twitter.com/os_kjwoo"
+    - "https://facebook.com/kyungjei.woo"
+    - "https://instagram.com/kjeiwoo"
+    - "https://www.linkedin.com/in/kjeiwoo"
+    - "https://plus.google.com/u/0/106281581627346575771"
+    # An array of links to social media profiles
 
 # Analytics
 analytics:
