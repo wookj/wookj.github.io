@@ -1,5 +1,12 @@
 # main links
 main:
+  - title: "About"
+    url: https://wookj.github.io/about/
+  - title: "Orthopedics"
+    url: https://wookj.github.io/os/
+  - title: "Books"
+    url: https://wookj.github.io/book/
+  - title: "Blog"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
