@@ -5,13 +5,13 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: wookj
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
   twitter: _swanson
-  #facebook: zuck
+  facebook: kyungjei.woo
   #tumblr: animalygifs
   #linkedin: philipjagielski
   #gplus: 110552447039675960964
@@ -19,8 +19,8 @@ social:
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
+name: Kyungjei Woo
+email: spikyedge@gmail.com
 tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
