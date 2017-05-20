@@ -12,6 +12,9 @@
 #  url: /music/
 #  icon: music
 
+- title: Orthopedics
+  url: /orthopedics/
+  icon: hospital
 
 - title: Stories
   url: /stories/
