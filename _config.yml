@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Micronaut Tuned So Simple Theme
+title: Kyungjei Woo
 locale: en_US
-timezone: CET
+timezone: Asia/Seoul
 description: Site Description
-logo: site-logo.svg
+logo: turtle.svg
 search: true
-url: #your-site-url
+url: https://wookj.github.io #your-site-url
 external_data_url: # common url for images and other external data
 
 # Jekyll configuration
@@ -43,13 +43,13 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Site Name
-  avatar: site-logo.png
-  email: #youremail
-  disqus-shortname: #your-disqus-shortname
-  twitter: #your-twitter-name
-  facebook: #username
-  github: #your-github-name
+  name: Kyungjei Woo
+  avatar: kjw-icon.png
+  email: kyungjei.woo@gmail.com #youremail
+  disqus-shortname: kjwoo #your-disqus-shortname
+  twitter: os_kjwoo #your-twitter-name
+  facebook: kyungjei.woo #username
+  github: wookj #your-github-name
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram:
