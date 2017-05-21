@@ -3,7 +3,7 @@
 title: Kyungjei Woo
 locale: en_US
 timezone: Asia/Seoul
-description: Site Description
+description: 우경제의 블로그
 logo: turtle.svg
 search: true
 url: https://wookj.github.io #your-site-url
@@ -37,7 +37,7 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
-paginate: 20
+paginate: 10
 paginate_path: /posts/page:num
 
 
@@ -51,7 +51,7 @@ owner:
   facebook: kyungjei.woo #username
   github: wookj #your-github-name
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: kyungjei woo #username
   instagram:
     user: #instagram-username
     userId: #instagram-userId
