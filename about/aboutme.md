@@ -1,15 +1,18 @@
 ---
+id: 21
+title: About me
+date: 2015-10-08T08:39:39+00:00
+author: kyungjeiwoo
 layout: page
-title: About this blogbook
-excerpt: "About me"
-date: '2015-10-08T08:39:39+00:00'
-search_omit: true
+guid: http://kjwoo.com/oh/?page_id=21
+yuzo_related_post_metabox:
+  - 'a:3:{s:17:"yuzo_include_post";s:0:"";s:17:"yuzo_exclude_post";s:0:"";s:21:"yuzo_disabled_related";N;}'
 ---
 ### Personal History[경력]
 
 * * *
 
-###
+### 
 
 #### Present
 
@@ -77,7 +80,7 @@ search_omit: true
     <td>
       2015
     </td>
-
+    
     <td>
       <ul>
         <li style="text-align: left;">
@@ -92,12 +95,12 @@ search_omit: true
       </ul>
     </td>
   </tr>
-
+  
   <tr>
     <td>
       2014
     </td>
-
+    
     <td>
       <ul>
         <li style="text-align: left;">
@@ -114,7 +117,7 @@ search_omit: true
   </tr>
 </table>
 
-####
+#### 
 
 #### 논문
 
@@ -123,7 +126,7 @@ search_omit: true
     <td style="text-align: left;">
       2016
     </td>
-
+    
     <td style="text-align: left;">
       <b><i>CiOS</i></b><br /> &#8220;The Efficacy of Percutaneous Lateral Hemiepiphysiodesis on Angular Correction  in Idiopathic Adolescent Genu Varum &#8220;
     </td>
@@ -135,26 +138,26 @@ search_omit: true
     <td style="text-align: left;">
       2015
     </td>
-
+    
     <td style="text-align: left;">
       <i><b>Foot and Ankle International</b></i><br /> &#8220;Effect of Lasteral Soft Tissue Release on sesamoid Position in Hallux Valgus Surgery&#8221;
     </td>
   </tr>
-
+  
   <tr>
     <td>
     </td>
-
+    
     <td style="text-align: left;">
       <i><b>The Journal of Foot and Ankle Surgery</b></i><br /> &#8220;Incidence of Peroneal Tendinopathy After Application of a Posterior Antiglide Plate for Repair<br /> of Supination External Rotation Lateral Malleolar Fractures&#8221;
     </td>
   </tr>
-
+  
   <tr>
     <td style="text-align: left;">
       2013
     </td>
-
+    
     <td style="text-align: left;">
       <i><b>The Journal of Foot and Ankle Surgery</b></i><br /> &#8220;Fixation of a Posteromedial Osteochondral Lesion of the Talus Using a Three-Portal Posterior<br /> Arthroscopic Technique&#8221;
     </td>
@@ -198,7 +201,7 @@ search_omit: true
 &nbsp;
 
   * e-mail: kyungjei.woo@gmail.com / spikyedge@gmail.com
-  * 카카오톡 친구 찾기: @우경제 검색
+  * 카카오톡 친구 찾기: @우경제 검색 
       * http://plus.kakao.com/home/@우경제
       * http://goto.kakao.com/jsa5ldfh
 
