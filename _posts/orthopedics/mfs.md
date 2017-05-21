@@ -1,8 +1,11 @@
 ---
-title: 목 주위 통증
-permalink: /docs/mfs/
+layout: post
+title: "목 주위 통증"
+modified:
+categories: orthopedics
+tags: [근막통증증후군]
+author: Author1
 ---
-
 
 어깨 통증을 주소로 오시는 분이 상당히 많다. 책상에서 일하는 자세와 서서 일하는 자세가 많은 분들이 주로 통증을 호소하신다.
 

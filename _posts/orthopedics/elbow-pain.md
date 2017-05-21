@@ -1,8 +1,11 @@
 ---
-title: 팔꿈치 통증
-permalink: /docs/elbow-pain/
+layout: post
+title: "팔꿈치 통증"
+modified:
+categories: orthopedics
+tags: [팔꿈치]
+author: Author1
 ---
-
 
 <span style="font-size: 14px;"> 흔히 이야기하는 테니스 엘보(tennis elbow)와 골퍼스 엘보(golfer&#8217; elbow)가 대부분이며, 이러한 통증을 호소하시는 분들의 경우 특징적으로 자주하는 팔동작이 있다. 이 두 병변은 건염에 해당하기 때문에 당연하게도 휴식을 취하면 통증이나 병변 자체는 호전된다. 하지만 대부분 일과 관련된 반복된 동작이 원인이기 때문에 지루하게 병원을 지속적으로 찾으면서 불만이 쌓이는 경우가 많다. 다른 경우도 그렇지만 이렇게 반복적이고 만성적인 병변들인 경우, 질병 자체를 이해하고 있어야 의사의 지시를 정확히 이해하고 따를 수 있게 된다. </span>
 

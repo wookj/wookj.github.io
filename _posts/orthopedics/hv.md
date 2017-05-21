@@ -1,8 +1,11 @@
 ---
-title: 무지 외반증 (버선 발 변형)
-permalink: /docs/hv/
+layout: post
+title: "무지 외반증 (버선 발 변형)"
+modified:
+categories: orthopedics
+tags: [무지외반증]
+author: Author1
 ---
-
 
 무지 외반증은 최근 언론에도 많이 노출되어 온 질환으로 이전부터 있었지만 병으로 인식한 것은 얼마 안된 병변이라 하겠다.
 

@@ -1,6 +1,10 @@
 ---
-title: 부주상골 증후군
-permalink: /docs/acc-navicular/
+layout: post
+title: "부주상골 증후군"
+modified:
+categories: orthopedics
+tags: [부주상골]
+author: Author1
 ---
 
 <a href="https://i2.wp.com/kjwoo.com/oh/wp-content/uploads/2015/12/an1.jpg" data-rel="lightbox-0" title=""><img class="wp-image-174 aligncenter" src="https://i2.wp.com/kjwoo.com/oh/wp-content/uploads/2015/12/an1.jpg?resize=160%2C182" alt="an1" data-recalc-dims="1" /></a>

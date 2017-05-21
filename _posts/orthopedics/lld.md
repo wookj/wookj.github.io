@@ -1,8 +1,11 @@
 ---
-title: 하지부동 (다리 길이 차이)
-permalink: /docs/lld/
+layout: post
+title: "하지부동 (다리 길이 차이)"
+modified:
+categories: orthopedics
+tags: [하지부동]
+author: Author1
 ---
-
 
 &#8211; 원인
 

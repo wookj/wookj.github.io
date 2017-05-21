@@ -1,8 +1,11 @@
 ---
-title: 통풍
-permalink: /docs/gout/
+layout: post
+title: "통풍"
+modified:
+categories: orthopedics
+tags: [통풍]
+author: Author1
 ---
-
 
 통풍(Gout, 痛風)이란?
 

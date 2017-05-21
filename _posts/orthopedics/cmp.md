@@ -1,8 +1,11 @@
 ---
-title: 슬개골 연골 연화증
-permalink: /docs/cmp/
+layout: post
+title: "슬개골 연골 연화증"
+modified:
+categories: orthopedics
+tags: [슬개골연골연화증]
+author: Author1
 ---
-
 
 
 요즘엔 등산을 많이 하거나 앉아 있는 일이 많아 무릎 전방부의 통증으로 내원하시는 경우가 많다.
