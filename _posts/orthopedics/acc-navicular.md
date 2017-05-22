@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "부주상골 증후군"
-modified:
 categories: orthopedics
-tags: [부주상골]
+excerpt:
+share: true
+comments: true
+tags: [accessory navicular], [부주상골]
 author: Author1
+hidelogo: true
+mathjax: true
 ---
-
 <a href="https://i2.wp.com/kjwoo.com/oh/wp-content/uploads/2015/12/an1.jpg" data-rel="lightbox-0" title=""><img class="wp-image-174 aligncenter" src="https://i2.wp.com/kjwoo.com/oh/wp-content/uploads/2015/12/an1.jpg?resize=160%2C182" alt="an1" data-recalc-dims="1" /></a>
 
 우리 몸에는 수 많은 부골이 존재합니다.
